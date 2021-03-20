@@ -3,7 +3,7 @@ import React from 'react'
 /** Homepage Page */
 const Homepage = () => {
     return(
-        <div>This is Homepage</div>
+        <div className='bg-red-200'>This is Homepage</div>
     )
 }
 
